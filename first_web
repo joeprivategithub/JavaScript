@@ -1,0 +1,11 @@
+<html>
+<head>
+  <script type="text/javascript">
+    alert('Hello, world');
+  </script>
+  <title>Test website!</title>>
+</head>
+<body>
+  ...
+</body>
+</html>
