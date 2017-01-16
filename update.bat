@@ -1,6 +1,6 @@
 @Echo Off
 
-for /f %%i in ('openssl rand -base64 32') do (
+for /f %%i in ('openssl rand -base64 33') do (
   set rand_char=%%i
 )
 git add .
